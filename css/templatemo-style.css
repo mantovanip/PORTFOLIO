@@ -350,7 +350,7 @@ h5 {
 #contact .form-control {
     background: transparent;
     border: 2px solid #999;
-    border-radius: 0;
+    border-radius: 7px;
     box-shadow: none;
     color: #ffffff;
     margin-bottom: 20px;
@@ -361,7 +361,7 @@ h5 {
 }
 
 #contact input[type="submit"] {
-    background: #3f64d4;
+    background: #6b7aa6;
     border: 2px solid transparent;
     color: #ffffff;
     font-weight: bold;
